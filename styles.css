@@ -13,3 +13,13 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     text-shadow: 0px 0px 20px #242424;
 }
+
+
+main {
+    padding: 15px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
